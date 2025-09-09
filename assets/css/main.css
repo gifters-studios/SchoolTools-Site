@@ -2332,7 +2332,7 @@ input, select, textarea {
 				border-radius: 0;
 				display: block;
 				position: relative;
-				width: 100%;
+				width: 200%;
 			}
 
 			.image.phone .inner, .image.phone:before, .image.phone:after {
